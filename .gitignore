@@ -4,6 +4,8 @@
 *.dll
 *.so
 *.dylib
+discord-fitness-tracker
+main
 
 # Test binary, built with `go test -c`
 *.test
